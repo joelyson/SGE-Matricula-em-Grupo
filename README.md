@@ -1,5 +1,7 @@
 # SGE-Matricula-em-Grupo
 
+Solução para realizar múltiplos sql inserts. Aqui utilizado para realizar matrícula de um grupo de alunos em uma turma. Para isso os nomes foram separados por (;) e digitados em um <textarea>. 
+
 ## Estrutura
  * /views
  * /controller
